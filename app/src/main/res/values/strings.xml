@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">M10_Current_Location_On_Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA0a3UqZY3iFcUfaU9b2otrQ7Jl3v8glHU</string>
+</resources>
